@@ -1,0 +1,12 @@
+{
+  "name": "epysa-scraper",
+  "version": "1.0.0",
+  "description": "Web scraped contact information from EPYSA website",
+  "main": "scrape.js",
+  "repository": "https://github.com/zachfedor/epysa-scraper",
+  "author": "Zach Fedor <zachfedor@gmail.com> (http://zachfedor.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
